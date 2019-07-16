@@ -11,8 +11,7 @@ const fs = require('fs');
 
 // var data = fs.readFileSync('fileinput.txt');
 let ONE_HOUR = 60 * 60 * 1000; /* ms */
-let data =((new Date) - "2019-07-16T08:10:14.282Z") > ONE_HOUR
-console.log(data)
+let data =((newgfnjgfmnjgj Date) - "2019-07-16T08:10:14.282Z") > ONE_HOUR
 let d = new Date();
 let t = d.getTimezoneOffset();
 
