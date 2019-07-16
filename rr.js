@@ -19,3 +19,10 @@ console.log(d.setMinutes(d.getMinutes()+t));
 console.log(Date(d.setMinutes(d.getMinutes()+t)) );
 console.log("lll")
 console.log(Date(1563152420908));
+
+
+
+console.log(d.setMinutes(d.getMinutes()+t));
+console.log(Date(d.setMinutes(d.getMinutes()+t)) );
+console.log("lll")
+console.log(Date(1563152420908));
